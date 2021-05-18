@@ -1,9 +1,17 @@
+/*
+ * @Author: shidong.zsd@alibaba-inc.com
+ * @Date: 2021-05-18 21:34:10
+ * @LastEditTime: 2021-05-18 21:36:07
+ * @LastEditors: shidong.zsd@alibaba-inc.com
+ * @Description: blabla
+ * @FilePath: /nobelium-blog/blog.config.js
+ */
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'Impromptu',
+  author: 'Sytone',
+  email: 'clarkzsd@gmail.com',
+  link: 'https://sytone.me',
+  description: "Sytone's blog",
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -16,7 +24,7 @@ const BLOG = {
   showAbout: true, // WIP
   showArchive: true, // WIP
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/sytonechou',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
