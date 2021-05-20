@@ -1,7 +1,7 @@
 /*
  * @Author: shidong.zsd@alibaba-inc.com
  * @Date: 2021-05-18 21:34:10
- * @LastEditTime: 2021-05-18 21:36:07
+ * @LastEditTime: 2021-05-20 22:18:23
  * @LastEditors: shidong.zsd@alibaba-inc.com
  * @Description: blabla
  * @FilePath: /nobelium-blog/blog.config.js
@@ -57,7 +57,7 @@ const BLOG = {
       repo: ''
     },
     cusdisConfig: {
-      appId: '', // data-app-id
+      appId: '4a367e24-5b77-4d47-9e60-0a54fcaba880', // data-app-id
       host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
