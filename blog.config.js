@@ -1,7 +1,7 @@
 /*
  * @Author: shidong.zsd@alibaba-inc.com
  * @Date: 2021-05-18 21:34:10
- * @LastEditTime: 2021-05-20 22:18:23
+ * @LastEditTime: 2021-05-20 22:30:07
  * @LastEditors: shidong.zsd@alibaba-inc.com
  * @Description: blabla
  * @FilePath: /nobelium-blog/blog.config.js
@@ -44,7 +44,7 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'cusdis', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: '', // The repository of store comments
       owner: '',
