@@ -7,11 +7,11 @@
  * @FilePath: /nobelium-blog/blog.config.js
  */
 const BLOG = {
-  title: 'Impromptu',
+  title: "Sytone's Blog",
   author: 'Sytone',
   email: 'clarkzsd@gmail.com',
   link: 'https://sytone.me',
-  description: "Sytone's blog",
+  description: "share some thoughts",
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
